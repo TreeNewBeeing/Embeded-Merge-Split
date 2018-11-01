@@ -1,0 +1,39 @@
+{
+  "name": "embeded-merge-split",
+  "version": "1.0.0",
+  "description": "A embeded visualization component that support interaction of adaptive binning and grouping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TreeNewBeeing/Embeded-Merge-Split.git"
+  },
+  "keywords": [
+    "data visualization",
+    "human computer interaction",
+    "Embeded Merge Split"
+  ],
+  "author": "Zifeng Xie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TreeNewBeeing/Embeded-Merge-Split/issues"
+  },
+  "homepage": "https://github.com/TreeNewBeeing/Embeded-Merge-Split#readme",
+  "dependencies": {
+    "d3": "^5.7.0",
+    "react": "^16.6.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-preset-react-optimize": "^1.0.1",
+    "rollup-plugin-babel": "^4.0.3",
+    "rollup-plugin-commonjs": "^9.2.0",
+    "rollup-plugin-node-resolve": "^3.4.0",
+    "rollup-plugin-replace": "^2.1.0",
+    "styled-jsx": "^3.1.0"
+  }
+}
